@@ -1,7 +1,7 @@
 <h1 align="center">Omm Sanjog Barik</h1>
 <p align="center">
-  <b>Embedded Systems & IoT Developer</b><br>
-  Firmware · Custom Hardware · Real-time Control · Connected Devices
+  <b>Embedded Systems Developer · ML Engineer · IoT Developer</b><br>
+  Firmware · Custom Hardware · Edge AI · Connected Devices
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### About
 
-I design embedded and IoT systems end to end — from sensor selection and circuit design to firmware, wireless communication, and the web or mobile interface that sits on top.
+I design intelligent embedded systems end to end — from sensor selection and circuit design to firmware, wireless communication, machine learning models, and the web or mobile interface that sits on top. I train ML models and deploy them on edge hardware like the Raspberry Pi, so devices can make decisions on their own.
 
 - 🔧 **Embedded Systems Developer** at CreatED
 - 🤖 **Co-founder** of MegaHertz Robotics
@@ -35,9 +35,15 @@ I design embedded and IoT systems end to end — from sensor selection and circu
 <img src="https://img.shields.io/badge/LoRa-1C1C1C?style=flat-square">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 
-**Programming & Analysis**
+**Machine Learning**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black">
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square">
+<img src="https://img.shields.io/badge/Edge%20AI-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+
+**Programming & Analysis**
+<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square">
 
